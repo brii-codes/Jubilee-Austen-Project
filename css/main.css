@@ -5,12 +5,14 @@ body{
 }
 /***** GRID *****/
 .full-width{
-    width: 1200px;
+    width: 90%;
+    max-width: 1200px;
     margin: 0 auto;
     overflow: auto;
 }
 .half-width{
-    width: 600px;
+    width: 100%;
+    max-width: 600px;
     float: left;
 }
 .third-width{
@@ -20,7 +22,7 @@ body{
 /***** HEADER *****/
 header{
     height: 800px;
-    background: url("../img/hero.png");
+    background: url('../img/hero.png');
     background-size: cover;
     background-position: center bottom;
 }

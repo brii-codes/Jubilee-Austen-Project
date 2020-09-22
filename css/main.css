@@ -77,9 +77,11 @@ header h2 span{
     margin-right: 24px;
 }
 /***** WORK *****/
+#work{
+    background: #f9ceb7;
+}
 #work .full-width{
     padding:115px 0;
-    background: #f9ceb7;
 }
 #work img{
     padding-bottom:30px;
@@ -100,6 +102,9 @@ header h2 span{
     text-align: center;
 }
 /***** CONTACT *****/
+#contact{
+    background: #ebebeb;
+}
 #contact .full-width{
     padding:110px 0;
     background: #ebebeb;
